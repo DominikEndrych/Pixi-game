@@ -1,0 +1,24 @@
+canvas
+{
+    float: left;
+    border: 5px solid rgb(0, 150, 209);
+}
+#UI
+{
+    float: left;
+    padding-top: 150px;
+    margin-left: 3%;
+}
+#startBtn
+{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+#score
+{
+    font-size: 18px;
+    margin-left: 3px;
+}
